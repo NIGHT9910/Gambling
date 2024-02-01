@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+    background-color: black;
+}
+
+
+
+.dice{
+    display: inline-block;
+    align-items: center;
+    padding: 180px;
+    
+}
+.footer{
+    color: white;
+    background-color: black
+   
+    
+}
+footer{
+    text-align: center ;
+}
+
+body{
+    background-image: url(./images/background.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.player{
+    background-color: black;
+    color: red; 
+    font-size: 20px;
+    padding: 15px;
+}
